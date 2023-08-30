@@ -35,8 +35,8 @@
 [class="button-ejjZWC lookFilled-1H2Jvj colorBrand-2M3O3N sizeMin-3Yqxk5 grow-2T4nbg"]:hover{
 	background-color: rgb(77, 77, 77)!important;
 }
-/* Fix bug on the height of the main friends list (home screen)*/
-[class="theme-dark container-ZMc96U themed-Hp1KC_"] {
+/* Fix bug on the height of the main content*/
+[class*="container-ZMc96U themed-Hp1KC_"] {
     min-height: 0 !important;
 }
 /* Icons not showing properly on setting menu */
