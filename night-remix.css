@@ -10,8 +10,8 @@
 @import url("https://KillYoy.github.io/DiscordNight/DiscordNight.css");
 @import url("https://killyoy.github.io/DiscordNight/Addons/Vanilla_Attachment_Button.theme.css"); 
 
-/* Mute, deafen, and settings button enlargement */
-.container-YkUktl .button-12Fmur {
+/* Mute, deafen, settings, and leave call buttons enlargement */
+.button-12Fmur {
 	width: 26px !important;
 	left: -5px !important;
 }
