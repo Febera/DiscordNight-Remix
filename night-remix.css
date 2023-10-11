@@ -36,11 +36,11 @@
 	background-color: rgb(77, 77, 77)!important;
 }
 /* Fix bug on the height of the main content*/
-[class*="container-ZMc96U themed-Hp1KC_"] {
+.container-ZMc96U {
     min-height: 0 !important;
 }
 /* Fix bug on the width on the members list*/
-.container-2o3qEW{
+.container-2o3qEW {
     min-width: 0px !important;
 }
 /* Icons not showing properly on setting menu */
