@@ -36,7 +36,7 @@
 	background-color: rgb(77, 77, 77)!important;
 }
 /* Fix bug on the height of the main content*/
-[class*="container themed-Hp1KC_"] {
+[class*="container-ZMc96U themed-Hp1KC_"] {
     min-height: 0 !important;
 }
 /* Icons not showing properly on setting menu */
