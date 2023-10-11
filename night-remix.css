@@ -39,6 +39,10 @@
 [class*="container-ZMc96U themed-Hp1KC_"] {
     min-height: 0 !important;
 }
+/* Fix bug on the width on the members list*/
+.container-2o3qEW{
+    min-width: 0px !important;
+}
 /* Icons not showing properly on setting menu */
 [role="tab"]:nth-child(2)::before{
 	background: url("https://raw.githubusercontent.com/KillYoy/DiscordNight/master/Icons/SVG/User_Management.svg")!important;
