@@ -54,8 +54,8 @@
 	background: url("https://raw.githubusercontent.com/KillYoy/DiscordNight/master/Icons/SVG/Connection.svg")!important;
 }
 [role="tab"]:nth-child(9)::before{
-	background: url("https://raw.githubusercontent.com/Febera/DiscordNight-Remix/master/Icons/SVG/Clip.svg")!important;
-    filter: invert(1);
+    background: url("https://raw.githubusercontent.com/Febera/DiscordNight-Remix/master/Icons/SVG/Clip.svg")!important;
+    filter: invert(1) grayscale(1) contrast(1) brightness(2);
     background-repeat: no-repeat !important;
     background-position: 2px 0px !important;
     background-size: 21px !important;
