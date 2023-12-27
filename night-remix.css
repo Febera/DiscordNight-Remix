@@ -14,6 +14,9 @@
 [class="button__4f306 enabled__470f0 button_afdfd9 lookBlank__7ca0a colorBrand_b2253e grow__4c8a4 button__4f306"]{
     padding: 12px;
 }
+.container_ca50b9 .button__4f306 svg{
+    width: 18px;
+}
 /* First chat message spacing */
 [class="channelTextArea__2e60f channelTextArea__56a36"]{
     	margin-top: 8px;
