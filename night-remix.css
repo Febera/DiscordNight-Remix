@@ -11,18 +11,19 @@
 @import url("https://killyoy.github.io/DiscordNight/Addons/Vanilla_Attachment_Button.theme.css"); 
 
 /* Mute, deafen, settings, and leave call buttons enlargement */
-[class="button__4f306 enabled__470f0 button_afdfd9 lookBlank__7ca0a colorBrand_b2253e grow__4c8a4 button__4f306"]{
-    padding: 12px;
+[class="flex_f18b02 horizontal__4848b justifyStart__6f8c8 alignStretch__2d62d noWrap__5c413"] {
+    padding: 8px;
+    gap: 5px;
 }
 .container_ca50b9 .button__4f306 svg{
     width: 18px;
 }
 /* First chat message spacing */
-[class="channelTextArea__2e60f channelTextArea__56a36"]{
+[class="channelTextArea_c2094b channelTextArea__648e5"]{
     	margin-top: 8px;
 }
 /* Read all button from plugin */
-[class="button_afdfd9 lookFilled__19298 colorBrand_b2253e sizeMin__94642 grow__4c8a4"]{
+[class="vc-ranb-button button__581d0 lookFilled__950dd sizeMin__508da grow__4c8a4"]{
 	background-color: rgb(42, 42, 42) !important;
 	left: -6px;
 	bottom: 2px;
